@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../frontend"
+		},
+		{
+			"path": "../../../../Projects/transportation-services"
+		},
+		{
+			"path": "../../../transportation-services"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
